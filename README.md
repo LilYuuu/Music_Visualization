@@ -16,5 +16,5 @@
   ```
   
 ## Step 3: Open the webpage in a browser
-* Open a browser window and enter <kbd>localhost:8080</kbd> to load the page.
-* To stop the local server, use <kbd>Ctrl</kbd> + <kbd>C</kbd>
+* Open a browser window and enter http://localhost:8080 to load the page.
+* To stop the local server, use <kbd>Ctrl</kbd> + <kbd>C</kbd> in the terminal.

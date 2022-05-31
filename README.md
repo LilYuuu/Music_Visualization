@@ -1,4 +1,4 @@
-# music_visualization
+# Music_Visualization
 
 ## Step 1: Download files
 * Download/clone this github repository.
@@ -8,7 +8,7 @@
 * Open a terminal window.
 * Make sure the current path matches with this project folder.
   ```
-  cd {{path}}/music_visualization
+  cd {{path}}/Music_Visualization
   ```
 * Start a local server
   ```
